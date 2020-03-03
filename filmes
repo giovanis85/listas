@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 type="video" tvg-logo="https://br.web.img3.acsta.net/pictures/18/03/01/20/26/0577579.jpg" group-title="FILMES",Um Lugar Silencioso 2018
+https://cdn.canais.ink/RCFServer4/ondemand/UMLGRSLNCOSO.mp4?expires=1583281943&token=2cc37f496f22bed7b4be8a9c5d5ee4d6&attachment=true
+
+#EXTINF:-1 type="video" tvg-logo="https://imagens.publicocdn.com/imagens.aspx/719364?tp=KM&w=220" group-title="FILMES",Bons Meninos
+https://nimbleserver.canais.ink/e/RCFServer3/ondemand/BNSMNOS.mp4/chunk.m3u8?expires=1583283092&token=c3f669a5e187deedb2f5f2cde06648d3
