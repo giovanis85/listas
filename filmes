@@ -1,10 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 type="video" tvg-logo="https://br.web.img3.acsta.net/pictures/18/03/01/20/26/0577579.jpg" group-title="GIO",Um Lugar Silencioso 2018 - Onedrive
-https://nimbleserver.canais.ink/d/RCFServer4/ondemand/UMLGRSLNCOSO.mp4/chunk.m3u8?expires=1583470610&token=c553ff7591c8c38efb5acc963ad2a809
-
-#EXTINF:-1 type="video" tvg-logo="https://www.filmesonlinehdx.org/img/?src=assets/imgs/filme/doutor-sono_1582941111.jpg&h=275&w=190&zc=0" group-title="GIO",Outor Sono (https://www.filmesonlinehdx.org/)
-https://cdn.topcine.tv/filmes/Doctor.sleep.2019.mp4?token=Dam4o45_cAoOBumoSwxkxA&expires=1583454167
+ftp://phenixdsgner@files.000webhost.com/public_html/uploads/UMLGRSLNCOSO.mp4
 
 
 #EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Sonic
